@@ -3,13 +3,14 @@ Built and configured using [slock-flexipatch](https://github.com/bakkeby/slock-f
 
 ### Patches included:
 - [blur_pixelated_screen](https://tools.suckless.org/slock/patches/blur-pixelated-screen/)
-  - sets the lockscreen picture to a blured or pixelated screenshot
+    - sets the lockscreen picture to a blured or pixelated screenshot
 
 - [dpms](https://tools.suckless.org/slock/patches/dpms/)
-  - interacts with the Display Power Signaling and automatically shuts down the monitor after a
+    - interacts with the Display Power Signaling and automatically shuts down the monitor after a
     configurable amount of seconds
-  - the monitor will automatically be activated by pressing a key or moving the mouse and the
+    - the monitor will automatically be activated by pressing a key or moving the mouse and the
     password can be entered then
+
 
 ### Original README
 ```
